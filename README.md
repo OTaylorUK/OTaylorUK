@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=otayloruk" alt="otayloruk" /></a> </p>
 
-- 🔭 I’m currently working on **triviaquiz.io**
+- 🔭 I’m currently working on **[triviaquiz.io](https://triviaquiz.io/)**
 
 - 👨‍💻 All of my projects are available at [https://www.ollie-taylor.uk/](https://www.ollie-taylor.uk/)
 
